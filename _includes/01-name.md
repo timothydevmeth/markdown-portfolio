@@ -1,1 +1,1 @@
-Replace this with your name, and include a header.
+# Timothy Samuel as my 1st header
